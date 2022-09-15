@@ -1,0 +1,38 @@
+#judul{
+    background-color: #5CB8E4;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 60%;
+    height: auto;
+}
+#judul th, #judul td{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+#judul th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color:#FEDB39;
+}
+.menghapus {
+    background-color: aqua;
+}
+.menghapus:hover {
+    background-color:red;
+}
+.nomer{
+    background-color:#5CB8E4;
+}
+.alamat {
+    background-color: #5CB8E4;
+}
+.alamat:hover{
+    background-color:  #ddd;
+}
+.nama_mhs{
+    background-color: #5CB8E4;
+}
+.nama_mhs:hover{
+    background-color: #ddd;
+}
